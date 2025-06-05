@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>TALLER FIESTA DE CARNAVAL</Actividad_Subvencionada>
+		<Importe>94.56</Importe>
+	<SubvencionAcumulada>94.56</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DIA DEL PADRE</Actividad_Subvencionada>
+		<Importe>39.04</Importe>
+	<SubvencionAcumulada>133.60</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DIA DE LA MADRE</Actividad_Subvencionada>
+		<Importe>43.64</Importe>
+	<SubvencionAcumulada>177.24</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>921</Importe>
+	<SubvencionAcumulada>1098.24</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO LOGOTIPO AMPA</Actividad_Subvencionada>
+		<Importe>56.57</Importe>
+	<SubvencionAcumulada>1154.81</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>ASOCIACION FAPA ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>1234.81</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>ASOCIACION FAPA GINER DE LOS RIOS</Actividad_Subvencionada>
+		<Importe>86.79</Importe>
+	<SubvencionAcumulada>1321.60</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>660</Importe>
+	<SubvencionAcumulada>1981.60</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>HALLOWEEN</Actividad_Subvencionada>
+		<Importe>168.39</Importe>
+	<SubvencionAcumulada>2149.99</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ANTONIO MACHADO</Asociaci_n>
+		<Actividad_Subvencionada>SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>195</Importe>
+	<SubvencionAcumulada>2344.99</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>MATEMATICAS MANIPULATIVAS</Actividad_Subvencionada>
+		<Importe>480</Importe>
+	<SubvencionAcumulada>480.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>PROYECTO DE INGLES</Actividad_Subvencionada>
+		<Importe>480</Importe>
+	<SubvencionAcumulada>960.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSIONES PRIMARIA</Actividad_Subvencionada>
+		<Importe>928</Importe>
+	<SubvencionAcumulada>1888.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACIÓN INFANTIL</Actividad_Subvencionada>
+		<Importe>360</Importe>
+	<SubvencionAcumulada>2248.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACIÓN 6 PRIM</Actividad_Subvencionada>
+		<Importe>240</Importe>
+	<SubvencionAcumulada>2488.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>REVISTA COLEGIO ENTRETIZAS</Actividad_Subvencionada>
+		<Importe>220</Importe>
+	<SubvencionAcumulada>2708.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA BACHILLER ALONSO LOPEZ</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA INTERCULTURAL</Actividad_Subvencionada>
+		<Importe>492</Importe>
+	<SubvencionAcumulada>3200.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO TARJETAS NAVIDEÑAS</Actividad_Subvencionada>
+		<Importe>124</Importe>
+	<SubvencionAcumulada>124.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>TALLER COMO MEJORAR LA AUTOESTIMA DE NUESTROS HIJOS</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>284.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>840</Importe>
+	<SubvencionAcumulada>1124.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>PROPUESTA DE ACTIV EXTRAESCOLARES, INSCRIPCIONES, INTERCAMBIO LIBROS</Actividad_Subvencionada>
+		<Importe>150</Importe>
+	<SubvencionAcumulada>1274.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>FEDERACION</Actividad_Subvencionada>
+		<Importe>64</Importe>
+	<SubvencionAcumulada>1338.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA REYES MAGOS</Actividad_Subvencionada>
+		<Importe>460</Importe>
+	<SubvencionAcumulada>1798.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>CHOCOLATADA</Actividad_Subvencionada>
+		<Importe>336</Importe>
+	<SubvencionAcumulada>2134.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>163</Importe>
+	<SubvencionAcumulada>2297.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>HALLOWEEN</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>2457.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA CASTILLA</Asociaci_n>
+		<Actividad_Subvencionada>CARNAVAL EN LA AULAS</Actividad_Subvencionada>
+		<Importe>147.44</Importe>
+	<SubvencionAcumulada>2604.44</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>PLAN LECTOR</Actividad_Subvencionada>
+		<Importe>370</Importe>
+	<SubvencionAcumulada>370.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>CONCIERTO MUSICA DIVERTIDA</Actividad_Subvencionada>
+		<Importe>575.74</Importe>
+	<SubvencionAcumulada>945.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>TALLER HABILIDADES SOCIALES O TECNICAS DE ESTUDIO</Actividad_Subvencionada>
+		<Importe>220</Importe>
+	<SubvencionAcumulada>1165.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>600</Importe>
+	<SubvencionAcumulada>1765.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACIONES INFANTIL Y SEXTO</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>1925.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>AGENDAS</Actividad_Subvencionada>
+		<Importe>340</Importe>
+	<SubvencionAcumulada>2265.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>EXPOSICION FOTOGRAFICA</Actividad_Subvencionada>
+		<Importe>198</Importe>
+	<SubvencionAcumulada>2463.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA DAOIZ Y VELARDE</Asociaci_n>
+		<Actividad_Subvencionada>NAVIDAD</Actividad_Subvencionada>
+		<Importe>689</Importe>
+	<SubvencionAcumulada>3152.74</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>DIA DE LA MUSICA</Actividad_Subvencionada>
+		<Importe>295.67</Importe>
+	<SubvencionAcumulada>295.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>SALIDA CULTURAL AL TEATRO</Actividad_Subvencionada>
+		<Importe>196</Importe>
+	<SubvencionAcumulada>491.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>FESTIVAL FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>247</Importe>
+	<SubvencionAcumulada>738.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>1000</Importe>
+	<SubvencionAcumulada>1738.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>ASOCIACION FAPA GINER DE LOS RIOS</Actividad_Subvencionada>
+		<Importe>175</Importe>
+	<SubvencionAcumulada>1913.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>ASOCIACION FAPA ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>77</Importe>
+	<SubvencionAcumulada>1990.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA NAVIDAD</Actividad_Subvencionada>
+		<Importe>850</Importe>
+	<SubvencionAcumulada>2840.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EMILIO CASADO</Asociaci_n>
+		<Actividad_Subvencionada>INTERCENTROS ATLETISMO</Actividad_Subvencionada>
+		<Importe>175</Importe>
+	<SubvencionAcumulada>3015.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FEDERICO GARCIA LORCA</Asociaci_n>
+		<Actividad_Subvencionada>DIA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>1400</Importe>
+	<SubvencionAcumulada>1400.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FEDERICO GARCIA LORCA</Asociaci_n>
+		<Actividad_Subvencionada>TALLERES DE HALLOWEEN Y ADORNOS NAVIDAD</Actividad_Subvencionada>
+		<Importe>85</Importe>
+	<SubvencionAcumulada>1485.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FEDERICO GARCIA LORCA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>434.06</Importe>
+	<SubvencionAcumulada>1919.06</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSIONES</Actividad_Subvencionada>
+		<Importe>1151.51</Importe>
+	<SubvencionAcumulada>1151.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>HUERTO ESCOLAR</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>1231.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>CUENTACUENTOS</Actividad_Subvencionada>
+		<Importe>200</Importe>
+	<SubvencionAcumulada>1431.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>TALLER NAVIDEÑO</Actividad_Subvencionada>
+		<Importe>120</Importe>
+	<SubvencionAcumulada>1551.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>480</Importe>
+	<SubvencionAcumulada>2031.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>PERIODICO</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>2191.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>CARNAVAL</Actividad_Subvencionada>
+		<Importe>350</Importe>
+	<SubvencionAcumulada>2541.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GABRIEL Y GALAN</Asociaci_n>
+		<Actividad_Subvencionada>SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>200</Importe>
+	<SubvencionAcumulada>2741.51</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO FELICITACIONES DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>90</Importe>
+	<SubvencionAcumulada>90.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>MERCADILLO NAVIDEÑO</Actividad_Subvencionada>
+		<Importe>90</Importe>
+	<SubvencionAcumulada>180.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACION</Actividad_Subvencionada>
+		<Importe>440</Importe>
+	<SubvencionAcumulada>620.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>55</Importe>
+	<SubvencionAcumulada>675.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FAPA ALCOBENDAS Y FAPA GINER DE LOS RIOS</Actividad_Subvencionada>
+		<Importe>227</Importe>
+	<SubvencionAcumulada>902.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA NAVIDAD</Actividad_Subvencionada>
+		<Importe>625</Importe>
+	<SubvencionAcumulada>1527.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>200</Importe>
+	<SubvencionAcumulada>1727.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE HALLOWEEN</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>1807.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>CASTAÑADA</Actividad_Subvencionada>
+		<Importe>65</Importe>
+	<SubvencionAcumulada>1872.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LUIS BUÑUEL</Asociaci_n>
+		<Actividad_Subvencionada>CARNAVAL EN LAS AULAS: MERCADILLO MEDIEVAL</Actividad_Subvencionada>
+		<Importe>209</Importe>
+	<SubvencionAcumulada>2081.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>CERTAMEN LITERARIO Y DE DIBUJO</Actividad_Subvencionada>
+		<Importe>300</Importe>
+	<SubvencionAcumulada>300.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA CULTURAL</Actividad_Subvencionada>
+		<Importe>153</Importe>
+	<SubvencionAcumulada>453.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSION A MADRID</Actividad_Subvencionada>
+		<Importe>504</Importe>
+	<SubvencionAcumulada>957.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSION A SIERRA DE GUADARRAMA</Actividad_Subvencionada>
+		<Importe>293</Importe>
+	<SubvencionAcumulada>1250.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO DE TARJETAS NAVIDEÑAS</Actividad_Subvencionada>
+		<Importe>150</Importe>
+	<SubvencionAcumulada>1400.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FESTIVAL FAPA</Actividad_Subvencionada>
+		<Importe>12</Importe>
+	<SubvencionAcumulada>1412.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>FESTIVAL FIN CURSO</Actividad_Subvencionada>
+		<Importe>287</Importe>
+	<SubvencionAcumulada>1699.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>ENTREGA DE ORLAS 3º INFANTIL</Actividad_Subvencionada>
+		<Importe>100</Importe>
+	<SubvencionAcumulada>1799.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION EN FEDERACIONES</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>1879.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>VISITA REYES MAGOS</Actividad_Subvencionada>
+		<Importe>530</Importe>
+	<SubvencionAcumulada>2409.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA NAVIDAD</Actividad_Subvencionada>
+		<Importe>475</Importe>
+	<SubvencionAcumulada>2884.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIGUEL HERNANDEZ</Asociaci_n>
+		<Actividad_Subvencionada>TORNEOS DEPORTIVOS</Actividad_Subvencionada>
+		<Importe>39.35</Importe>
+	<SubvencionAcumulada>2923.35</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIRAFLORES</Asociaci_n>
+		<Actividad_Subvencionada>SALIDA CULTURAL SAFARI</Actividad_Subvencionada>
+		<Importe>1500</Importe>
+	<SubvencionAcumulada>1500.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIRAFLORES</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>560</Importe>
+	<SubvencionAcumulada>2060.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIRAFLORES</Asociaci_n>
+		<Actividad_Subvencionada>CUENTOS EN MIRAFLORES</Actividad_Subvencionada>
+		<Importe>400</Importe>
+	<SubvencionAcumulada>2460.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA MIRAFLORES</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>327.21</Importe>
+	<SubvencionAcumulada>2787.21</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO DE TARJETAS NAVIDEÑAS</Actividad_Subvencionada>
+		<Importe>290</Importe>
+	<SubvencionAcumulada>290.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>FUTBOL</Actividad_Subvencionada>
+		<Importe>95</Importe>
+	<SubvencionAcumulada>385.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>MULTIDEPORTE</Actividad_Subvencionada>
+		<Importe>400</Importe>
+	<SubvencionAcumulada>785.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACIÓN</Actividad_Subvencionada>
+		<Importe>130</Importe>
+	<SubvencionAcumulada>915.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>995</Importe>
+	<SubvencionAcumulada>1910.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACIÓN FAPA</Actividad_Subvencionada>
+		<Importe>64</Importe>
+	<SubvencionAcumulada>1974.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>NAVIDAD</Actividad_Subvencionada>
+		<Importe>455</Importe>
+	<SubvencionAcumulada>2429.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PARQUE CATALUÑA</Asociaci_n>
+		<Actividad_Subvencionada>DIA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>175.44</Importe>
+	<SubvencionAcumulada>2604.44</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>300</Importe>
+	<SubvencionAcumulada>300.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>FAPA</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>380.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>DIA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>306</Importe>
+	<SubvencionAcumulada>686.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>DIA DE SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>100</Importe>
+	<SubvencionAcumulada>786.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO DE CHRISTMAS</Actividad_Subvencionada>
+		<Importe>250</Importe>
+	<SubvencionAcumulada>1036.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PROFESOR TIERNO GALVÁN</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA NAVIDAD</Actividad_Subvencionada>
+		<Importe>250</Importe>
+	<SubvencionAcumulada>1286.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSION GRANJA TALAMANCA</Actividad_Subvencionada>
+		<Importe>476</Importe>
+	<SubvencionAcumulada>476.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>NAVIDAD</Actividad_Subvencionada>
+		<Importe>320</Importe>
+	<SubvencionAcumulada>796.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>CUENTACUENTOS AMBIENTALES</Actividad_Subvencionada>
+		<Importe>280</Importe>
+	<SubvencionAcumulada>1076.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>256</Importe>
+	<SubvencionAcumulada>1332.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>FESTIVAL FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>100</Importe>
+	<SubvencionAcumulada>1432.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEIS DE DICIEMBRE</Asociaci_n>
+		<Actividad_Subvencionada>AGENDA ESCOLAR</Actividad_Subvencionada>
+		<Importe>518</Importe>
+	<SubvencionAcumulada>1950.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>VISITA MUSEO DEL VIDRIO</Actividad_Subvencionada>
+		<Importe>385.5</Importe>
+	<SubvencionAcumulada>385.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>SALIDAS CULTURALES EN FAMILIA</Actividad_Subvencionada>
+		<Importe>490</Importe>
+	<SubvencionAcumulada>875.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>TALLER EXTRAESCOLAR DISFRACES</Actividad_Subvencionada>
+		<Importe>190</Importe>
+	<SubvencionAcumulada>1065.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>TALLER EXTRAESCOLAR DANZA ESPAÑOLA</Actividad_Subvencionada>
+		<Importe>190</Importe>
+	<SubvencionAcumulada>1255.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>TALLER EXTRAESCOLAR DANZA MODERNA</Actividad_Subvencionada>
+		<Importe>90</Importe>
+	<SubvencionAcumulada>1345.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>690</Importe>
+	<SubvencionAcumulada>2035.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>FESTIVAL DANZA Y TEATRO</Actividad_Subvencionada>
+		<Importe>210</Importe>
+	<SubvencionAcumulada>2245.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>CEREMONIA GRADUACION 6º PRIMARIA</Actividad_Subvencionada>
+		<Importe>170</Importe>
+	<SubvencionAcumulada>2415.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>ORLA PARA 6º PRIMARIA</Actividad_Subvencionada>
+		<Importe>110</Importe>
+	<SubvencionAcumulada>2525.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>CEREMONIA GRADUACION INFANTIL</Actividad_Subvencionada>
+		<Importe>180</Importe>
+	<SubvencionAcumulada>2705.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>BOLETIN APA</Actividad_Subvencionada>
+		<Importe>260</Importe>
+	<SubvencionAcumulada>2965.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FAPA ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>64</Importe>
+	<SubvencionAcumulada>3029.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FESTIVAL FAPA</Actividad_Subvencionada>
+		<Importe>260</Importe>
+	<SubvencionAcumulada>3289.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FAPA GINER DE LOS RIOS</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>3449.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>180</Importe>
+	<SubvencionAcumulada>3629.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>TORNEO MULTIDEPORTE</Actividad_Subvencionada>
+		<Importe>120</Importe>
+	<SubvencionAcumulada>3749.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDEPALITOS</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA CULTURAL</Actividad_Subvencionada>
+		<Importe>180</Importe>
+	<SubvencionAcumulada>3929.50</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LA CHOPERA</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>990</Importe>
+	<SubvencionAcumulada>990.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LA CHOPERA</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE MUSICA</Actividad_Subvencionada>
+		<Importe>120</Importe>
+	<SubvencionAcumulada>1110.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA LA CHOPERA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA GRADUACION</Actividad_Subvencionada>
+		<Importe>320</Importe>
+	<SubvencionAcumulada>1430.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EL CUQUILLO</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>610</Importe>
+	<SubvencionAcumulada>610.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EL CUQUILLO</Asociaci_n>
+		<Actividad_Subvencionada>DIA DE LA INFANCIA</Actividad_Subvencionada>
+		<Importe>150</Importe>
+	<SubvencionAcumulada>760.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EL CUQUILLO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO Y GRADUACION</Actividad_Subvencionada>
+		<Importe>368</Importe>
+	<SubvencionAcumulada>1128.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA EL CUQUILLO</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA NAVIDAD</Actividad_Subvencionada>
+		<Importe>379.83</Importe>
+	<SubvencionAcumulada>1507.83</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA DEL LIBRO Y FERIA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>685</Importe>
+	<SubvencionAcumulada>685.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>EL HUERTO</Actividad_Subvencionada>
+		<Importe>70</Importe>
+	<SubvencionAcumulada>755.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DEL NIDO</Actividad_Subvencionada>
+		<Importe>95</Importe>
+	<SubvencionAcumulada>850.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA GRADUACION</Actividad_Subvencionada>
+		<Importe>670</Importe>
+	<SubvencionAcumulada>1520.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>QUERIDOS REYES MAGOS</Actividad_Subvencionada>
+		<Importe>590</Importe>
+	<SubvencionAcumulada>2110.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>FERIA DE LAS ASOCIACIONES</Actividad_Subvencionada>
+		<Importe>150</Importe>
+	<SubvencionAcumulada>2260.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VALDELAPARRA</Asociaci_n>
+		<Actividad_Subvencionada>SAN ISIDRO</Actividad_Subvencionada>
+		<Importe>205</Importe>
+	<SubvencionAcumulada>2465.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>DIA DE LA PAZ</Actividad_Subvencionada>
+		<Importe>230</Importe>
+	<SubvencionAcumulada>230.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>SEMANA CULTURAL Y DIA DEL LIBRO</Actividad_Subvencionada>
+		<Importe>794</Importe>
+	<SubvencionAcumulada>1024.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>VISITA GRANJA ESCUELA</Actividad_Subvencionada>
+		<Importe>115</Importe>
+	<SubvencionAcumulada>1139.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>700</Importe>
+	<SubvencionAcumulada>1839.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>PERTENENCIA A LA FAPA</Actividad_Subvencionada>
+		<Importe>64</Importe>
+	<SubvencionAcumulada>1903.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>CARNAVAL</Actividad_Subvencionada>
+		<Importe>157</Importe>
+	<SubvencionAcumulada>2060.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>BELEN NAVIDEÑO</Actividad_Subvencionada>
+		<Importe>40</Importe>
+	<SubvencionAcumulada>2100.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA RIVENDEL</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>100</Importe>
+	<SubvencionAcumulada>2200.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>PREMIOS AL RENDIMIENTO, SUPERACIÓN Y CONVICENCIA</Actividad_Subvencionada>
+		<Importe>501.67</Importe>
+	<SubvencionAcumulada>501.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>ANIMACION A LA LECTURA</Actividad_Subvencionada>
+		<Importe>560</Importe>
+	<SubvencionAcumulada>1061.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>SALIDA AL TEATRO</Actividad_Subvencionada>
+		<Importe>240</Importe>
+	<SubvencionAcumulada>1301.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSION CULTURAL VISITA CORRALAS DE MADRID</Actividad_Subvencionada>
+		<Importe>120</Importe>
+	<SubvencionAcumulada>1421.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO FOTOGRAFICO CONSTITUCION</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>1581.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>ACTO DE GRADUACIÓN</Actividad_Subvencionada>
+		<Importe>300</Importe>
+	<SubvencionAcumulada>1881.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>INTERCAMBIO DE LIBROS DE TEXTO</Actividad_Subvencionada>
+		<Importe>80</Importe>
+	<SubvencionAcumulada>1961.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>JORNADA DE CONVIVENCIA</Actividad_Subvencionada>
+		<Importe>250</Importe>
+	<SubvencionAcumulada>2211.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA AGORA</Asociaci_n>
+		<Actividad_Subvencionada>MILLA ESCOLAR</Actividad_Subvencionada>
+		<Importe>210</Importe>
+	<SubvencionAcumulada>2421.67</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>PREMIOS AL RENDIMIENTO, SUPERACIÓN Y CONVIVENCIA</Actividad_Subvencionada>
+		<Importe>980.05</Importe>
+	<SubvencionAcumulada>980.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>ANIMACION A LA LECTURA</Actividad_Subvencionada>
+		<Importe>302</Importe>
+	<SubvencionAcumulada>1282.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>PRACTICANDO IDIOMAS</Actividad_Subvencionada>
+		<Importe>278</Importe>
+	<SubvencionAcumulada>1560.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>CONCURSO DE TARJETAS NAVIDEÑAS</Actividad_Subvencionada>
+		<Importe>190</Importe>
+	<SubvencionAcumulada>1750.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACION ALUMNOS BACHILLER</Actividad_Subvencionada>
+		<Importe>220</Importe>
+	<SubvencionAcumulada>1970.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>BOLETIN INFORMATIVO</Actividad_Subvencionada>
+		<Importe>587</Importe>
+	<SubvencionAcumulada>2557.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION EN FAPAS</Actividad_Subvencionada>
+		<Importe>260</Importe>
+	<SubvencionAcumulada>2817.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA ALDEBARAN</Asociaci_n>
+		<Actividad_Subvencionada>TALLER CHAPAS E IMANES</Actividad_Subvencionada>
+		<Importe>290</Importe>
+	<SubvencionAcumulada>3107.05</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>CERTAMEN TARJETA NAVIDAD</Actividad_Subvencionada>
+		<Importe>673</Importe>
+	<SubvencionAcumulada>673.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>CERTAMEN DE RELATO Y POESIA</Actividad_Subvencionada>
+		<Importe>320</Importe>
+	<SubvencionAcumulada>993.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>CERTAMEN RECREANDO EL JARDIN DEL GINER</Actividad_Subvencionada>
+		<Importe>160</Importe>
+	<SubvencionAcumulada>1153.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>CERTAMEN ENSAYO FILOSOFICO RAQUEL PUSZKIN</Actividad_Subvencionada>
+		<Importe>120</Importe>
+	<SubvencionAcumulada>1273.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>CEREMONIA GRADUACION BACHILLERATO</Actividad_Subvencionada>
+		<Importe>270</Importe>
+	<SubvencionAcumulada>1543.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>LIBRO DE RELATO Y POESIAS LA PLUMA LITERARIA</Actividad_Subvencionada>
+		<Importe>290</Importe>
+	<SubvencionAcumulada>1833.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA GINER DE LOS RIOS</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FAPA ALCOBENDAS Y FAPA MADRID</Actividad_Subvencionada>
+		<Importe>225</Importe>
+	<SubvencionAcumulada>2058.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE MOTIVACION Y AUTOESTIMA</Actividad_Subvencionada>
+		<Importe>981.97</Importe>
+	<SubvencionAcumulada>981.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE TECNICAS DE ESTUDIO</Actividad_Subvencionada>
+		<Importe>600</Importe>
+	<SubvencionAcumulada>1581.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>CONFERENCIA COLOQUIO SOBRE PREVENCION DEL FRACASO ESCOLAR</Actividad_Subvencionada>
+		<Importe>450</Importe>
+	<SubvencionAcumulada>2031.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>EXPOSICION Y EDICION ALBUM FOTOGRAFICO INTERCAMBIO EEUU</Actividad_Subvencionada>
+		<Importe>340</Importe>
+	<SubvencionAcumulada>2371.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>EXCURSION FIN DE CURO A PARQUE ECO-AVENTURA</Actividad_Subvencionada>
+		<Importe>480</Importe>
+	<SubvencionAcumulada>2851.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>GRADUACION CICLOS Y BACHILLERATOS</Actividad_Subvencionada>
+		<Importe>240</Importe>
+	<SubvencionAcumulada>3091.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>FERIA DE ASOCIACIONES DE ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>40</Importe>
+	<SubvencionAcumulada>3131.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>PERTENENCIA A FAPA ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>64</Importe>
+	<SubvencionAcumulada>3195.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>TORNEO DE AJEDREZ</Actividad_Subvencionada>
+		<Importe>48</Importe>
+	<SubvencionAcumulada>3243.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SEVERO OCHOA</Asociaci_n>
+		<Actividad_Subvencionada>FIESTA DE NAVIDAD</Actividad_Subvencionada>
+		<Importe>320</Importe>
+	<SubvencionAcumulada>3563.97</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VIRGEN DE LA PAZ</Asociaci_n>
+		<Actividad_Subvencionada>JORNADA LUDICO DEPORTIVA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>927.45</Importe>
+	<SubvencionAcumulada>927.45</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VIRGEN DE LA PAZ</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION FAPA ALCOBENDAS Y GINER DE LOS RIOS</Actividad_Subvencionada>
+		<Importe>176</Importe>
+	<SubvencionAcumulada>1103.45</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VIRGEN DE LA PAZ</Asociaci_n>
+		<Actividad_Subvencionada>ACTO DE GRADUACIÓN</Actividad_Subvencionada>
+		<Importe>121</Importe>
+	<SubvencionAcumulada>1224.45</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VIRGEN DE LA PAZ</Asociaci_n>
+		<Actividad_Subvencionada>PARTICIPACION EN FERIA DE LAS ASOCIACIONES</Actividad_Subvencionada>
+		<Importe>40</Importe>
+	<SubvencionAcumulada>1264.45</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA VIRGEN DE LA PAZ</Asociaci_n>
+		<Actividad_Subvencionada>TORNEO DEPORTIVO FUTBOL SALA</Actividad_Subvencionada>
+		<Importe>152</Importe>
+	<SubvencionAcumulada>1416.45</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA JUAN XXIII</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE MANUALIDADES</Actividad_Subvencionada>
+		<Importe>800</Importe>
+	<SubvencionAcumulada>800.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA JUAN XXIII</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE JUEGOS DIDACTICOS</Actividad_Subvencionada>
+		<Importe>448</Importe>
+	<SubvencionAcumulada>1248.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA JUAN XXIII</Asociaci_n>
+		<Actividad_Subvencionada>TALLER DE MAGIA</Actividad_Subvencionada>
+		<Importe>533.98</Importe>
+	<SubvencionAcumulada>1781.98</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SAN ANTONIO</Asociaci_n>
+		<Actividad_Subvencionada>GRANJA ESCUELA</Actividad_Subvencionada>
+		<Importe>895</Importe>
+	<SubvencionAcumulada>895.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SAN ANTONIO</Asociaci_n>
+		<Actividad_Subvencionada>VISITA AL PARQUE DE AVENTURAS AMAZONIA</Actividad_Subvencionada>
+		<Importe>576</Importe>
+	<SubvencionAcumulada>1471.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA SAN ANTONIO</Asociaci_n>
+		<Actividad_Subvencionada>ASISTENCIA AL CIRCO MUNDIAL</Actividad_Subvencionada>
+		<Importe>630.83</Importe>
+	<SubvencionAcumulada>2101.83</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PADRE  MANYANET</Asociaci_n>
+		<Actividad_Subvencionada>FERIA DE LA SEMANA CULTURAL</Actividad_Subvencionada>
+		<Importe>800</Importe>
+	<SubvencionAcumulada>800.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PADRE  MANYANET</Asociaci_n>
+		<Actividad_Subvencionada>BIBLIOTECA DE EDUCACION PRIMARIA DE LA APA</Actividad_Subvencionada>
+		<Importe>803.82</Importe>
+	<SubvencionAcumulada>1603.82</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PADRE  MANYANET</Asociaci_n>
+		<Actividad_Subvencionada>FERIA DE ROBOTICA</Actividad_Subvencionada>
+		<Importe>720</Importe>
+	<SubvencionAcumulada>2323.82</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA PADRE  MANYANET</Asociaci_n>
+		<Actividad_Subvencionada>LUDOTECA FIESTA FIN DE CURSO</Actividad_Subvencionada>
+		<Importe>372</Importe>
+	<SubvencionAcumulada>2695.82</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FAPA</Asociaci_n>
+		<Actividad_Subvencionada>JORNADA FAPA-APAS: ENCUENTROS DE PARTICIPACION</Actividad_Subvencionada>
+		<Importe>720</Importe>
+	<SubvencionAcumulada>720.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FAPA</Asociaci_n>
+		<Actividad_Subvencionada>25 ANIVERSARIO FAPA ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>1515</Importe>
+	<SubvencionAcumulada>2235.00</SubvencionAcumulada></Row>
+	<Row>
+		<Asociaci_n>AMPA FAPA</Asociaci_n>
+		<Actividad_Subvencionada>REVISTA DE LA FEDERACION "LA ESCUELA EN ALCOBENDAS</Actividad_Subvencionada>
+		<Importe>963.43</Importe>
+	<SubvencionAcumulada>3198.43</SubvencionAcumulada></Row>
+</Root>
