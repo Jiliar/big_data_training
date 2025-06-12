@@ -1,0 +1,1069 @@
+[
+  {
+    "_id": 1,
+    "usuario": {
+      "nick": "mundial_fan_86",
+      "seguidores": 1250
+    },
+    "texto": "¡Arranca la final de la Copa del Mundo 2018! ¡Francia vs Croacia! ¿Quién gana? 🇫🇷 vs 🇭🇷 #WorldCupFinal #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 2,
+    "usuario": {
+      "nick": "lesbleus_supporter",
+      "seguidores": 8340
+    },
+    "texto": "¡GOL DE FRANCIA! Mala suerte para Mandžukić con ese autogol. ¡Vamos 1-0! #AllezLesBleus #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 3,
+    "usuario": {
+      "nick": "vatreni_power",
+      "seguidores": 15200
+    },
+    "texto": "¡GOLAZOOOO de Perišić! ¡Qué zurdazo! ¡Empatamos 1-1! ¡Idemo Hrvatska! 🇭🇷🇭🇷🇭🇷 #Vatreni #CRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 4,
+    "usuario": {
+      "nick": "analista_futbol",
+      "seguidores": 48000
+    },
+    "texto": "Penal para Francia tras revisión del VAR. Mano de Perišić. Decisión muy polémica que puede cambiar el partido. #VAR #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 5,
+    "usuario": {
+      "nick": "griezmann_fanclub",
+      "seguidores": 5500
+    },
+    "texto": "¡GOOOOOL DE GRIEZMANN! Con una calma increíble desde los 11 metros. ¡Francia 2-1! @AntoGriezmann #Griezmann #FRACRO",
+    "menciones": [
+      "AntoGriezmann"
+    ],
+    "RT": false
+  },
+  {
+    "_id": 6,
+    "usuario": {
+      "nick": "casual_watcher",
+      "seguidores": 150
+    },
+    "texto": "RT @analista_futbol: Penal para Francia tras revisión del VAR. Mano de Perišić. Decisión muy polémica que puede cambiar el partido. #VAR #WorldCupFinal",
+    "menciones": [
+      "analista_futbol"
+    ],
+    "RT": true,
+    "origen": 4
+  },
+  {
+    "_id": 7,
+    "usuario": {
+      "nick": "modric_magic",
+      "seguidores": 22000
+    },
+    "texto": "Modrić está en todos lados, es el corazón de este equipo. Gane o pierda, Balón de Oro para él. #Modric #GoldenBall",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 8,
+    "usuario": {
+      "nick": "pogba_style",
+      "seguidores": 9800
+    },
+    "texto": "¡GOL DE POGBOOM! ¡Qué disparo con la zurda! ¡Francia 3-1! ¡Esto huele a campeonato! #Pogba #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 9,
+    "usuario": {
+      "nick": "mbappe_jet",
+      "seguidores": 31000
+    },
+    "texto": "¡¡¡MBAPPÉ!!! ¡El futuro es hoy! ¡Golazo desde fuera del área! ¡4-1! ¡Historia pura!  Kylian Mbappé es una locura. #Mbappe #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 10,
+    "usuario": {
+      "nick": "futbol_total",
+      "seguidores": 75000
+    },
+    "texto": "RT @mbappe_jet: ¡¡¡MBAPPÉ!!! ¡El futuro es hoy! ¡Golazo desde fuera del área! ¡4-1! ¡Historia pura! Kylian Mbappé es una locura. #Mbappe #FRACRO",
+    "menciones": [
+      "mbappe_jet"
+    ],
+    "RT": true,
+    "origen": 9
+  },
+  {
+    "_id": 11,
+    "usuario": {
+      "nick": "croatia_fan_hr",
+      "seguidores": 4300
+    },
+    "texto": "¡GOL DE MANDŽUKIĆ! ¡Aprovechando el error de Lloris! ¡Nunca nos rendimos! ¡4-2, todavía hay esperanza! #Vatreni #Mandzukic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 12,
+    "usuario": {
+      "nick": "el_profe_tactico",
+      "seguidores": 61000
+    },
+    "texto": "Didier Deschamps ha planteado un partido muy pragmático. Croacia domina la posesión pero Francia es letal al contragolpe. #FRACRO #Tactics",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 13,
+    "usuario": {
+      "nick": "maria_perez",
+      "seguidores": 450
+    },
+    "texto": "Viendo la final con @juan_garcia. ¡Qué partidazo lleno de goles! #WorldCupFinal",
+    "menciones": [
+      "juan_garcia"
+    ],
+    "RT": false
+  },
+  {
+    "_id": 14,
+    "usuario": {
+      "nick": "lesbleus_champ",
+      "seguidores": 18000
+    },
+    "texto": "¡¡¡FINAAAAAL!!! ¡FRANCIA ES CAMPEONA DEL MUNDO! ¡LA SEGUNDA ESTRELLA ES NUESTRA! ⭐️⭐️ #ChampionsDuMonde #FiersdetreBleus",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 15,
+    "usuario": {
+      "nick": "orgullo_croata",
+      "seguidores": 25000
+    },
+    "texto": "Se acabó. Subcampeones del mundo. Con la cabeza bien alta. Gracias por hacernos soñar, guerreros. ¡Orgulloso de ser croata! 🇭🇷❤️ #Vatreni #Ponos",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 16,
+    "usuario": {
+      "nick": "random_user_101",
+      "seguidores": 88
+    },
+    "texto": "RT @lesbleus_champ: ¡¡¡FINAAAAAL!!! ¡FRANCIA ES CAMPEONA DEL MUNDO! ¡LA SEGUNDA ESTRELLA ES NUESTRA! ⭐️⭐️ #ChampionsDuMonde #FiersdetreBleus",
+    "menciones": [
+      "lesbleus_champ"
+    ],
+    "RT": true,
+    "origen": 14
+  },
+  {
+    "_id": 17,
+    "usuario": {
+      "nick": "balon_de_oro_news",
+      "seguidores": 95000
+    },
+    "texto": "OFICIAL: Luka Modrić gana el Balón de Oro del Mundial 2018. El mejor jugador del torneo. ¡Merecidísimo! #Modric #GoldenBall",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 18,
+    "usuario": {
+      "nick": "best_young_player",
+      "seguidores": 42000
+    },
+    "texto": "Kylian Mbappé, con solo 19 años, es elegido el Mejor Jugador Joven del Mundial. Nace una leyenda. #Mbappe",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 19,
+    "usuario": {
+      "nick": "juan_garcia",
+      "seguidores": 620
+    },
+    "texto": "RT @orgullo_croata: Se acabó. Subcampeones del mundo. Con la cabeza bien alta. Gracias por hacernos soñar, guerreros. ¡Orgulloso de ser croata! 🇭🇷❤️ #Vatreni #Ponos",
+    "menciones": [
+      "orgullo_croata"
+    ],
+    "RT": true,
+    "origen": 15
+  },
+  {
+    "_id": 20,
+    "usuario": {
+      "nick": "kante_engine",
+      "seguidores": 13000
+    },
+    "texto": "N'Golo Kanté. No marca, no asiste, pero es el 70% del planeta Tierra y el 100% del centro del campo. Campeón. #Kante #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 21,
+    "usuario": {
+      "nick": "rakitic_fan",
+      "seguidores": 7800
+    },
+    "texto": "Qué torneo de Rakitić también. El motor silencioso junto a Modrić. Grande @ivanrakitic!",
+    "menciones": [
+      "ivanrakitic"
+    ],
+    "RT": false
+  },
+  {
+    "_id": 22,
+    "usuario": {
+      "nick": "meme_lord",
+      "seguidores": 150000
+    },
+    "texto": "La lluvia en la entrega de trofeos solo le pone paraguas a Putin. Un clásico. #WorldCupFinal #Russia2018",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 23,
+    "usuario": {
+      "nick": "sports_photo",
+      "seguidores": 250000
+    },
+    "texto": "La imagen de Modrić recibiendo el Balón de Oro bajo la lluvia es poesía pura. Respeto. #Respect #Modric",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 24,
+    "usuario": {
+      "nick": "griezmann_lover",
+      "seguidores": 4900
+    },
+    "texto": "RT @griezmann_fanclub: ¡GOOOOOL DE GRIEZMANN! Con una calma increíble desde los 11 metros. ¡Francia 2-1! @AntoGriezmann #Griezmann #FRACRO",
+    "menciones": [
+      "griezmann_fanclub",
+      "AntoGriezmann"
+    ],
+    "RT": true,
+    "origen": 5
+  },
+  {
+    "_id": 25,
+    "usuario": {
+      "nick": "historia_futbol",
+      "seguidores": 112000
+    },
+    "texto": "Deschamps se convierte en la tercera persona en ganar el Mundial como jugador (1998) y como entrenador (2018). Se une a Zagallo y Beckenbauer. Leyenda. #Deschamps",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 26,
+    "usuario": {
+      "nick": "croatian_pride",
+      "seguidores": 19500
+    },
+    "texto": "4 millones de habitantes y llegan a una final del mundo. Lo de Croacia es para estudiarlo. ¡Ejemplo de lucha! #Hrvatska",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 27,
+    "usuario": {
+      "nick": "paris_celebrates",
+      "seguidores": 33000
+    },
+    "texto": "¡Los Campos Elíseos son una locura ahora mismo! ¡Todo París celebra la segunda estrella! #Paris #ChampionsDuMonde",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 28,
+    "usuario": {
+      "nick": "football_critic",
+      "seguidores": 89000
+    },
+    "texto": "Un partido entretenido, pero Francia no necesitó su mejor versión para ganar. Croacia pagó caro el desgaste de las prórrogas. #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 29,
+    "usuario": {
+      "nick": "user_2018",
+      "seguidores": 230
+    },
+    "texto": "Mi primer mundial y veo una final con 6 goles. ¡Increíble! #Rusia2018",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 30,
+    "usuario": {
+      "nick": "antoine_le_petit_prince",
+      "seguidores": 21000
+    },
+    "texto": "Griezmann, MVP de la final. Gol, asistencia y liderazgo. Clave en esta victoria. #Griezmann",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 31,
+    "usuario": {
+      "nick": "ana_simic",
+      "seguidores": 1200
+    },
+    "texto": "RT @orgullo_croata: Se acabó. Subcampeones del mundo. Con la cabeza bien alta. Gracias por hacernos soñar, guerreros. ¡Orgulloso de ser croata! 🇭🇷❤️ #Vatreni #Ponos",
+    "menciones": [
+      "orgullo_croata"
+    ],
+    "RT": true,
+    "origen": 15
+  },
+  {
+    "_id": 32,
+    "usuario": {
+      "nick": "french_connection",
+      "seguidores": 14500
+    },
+    "texto": "La conexión Pogba-Mbappé-Griezmann ha sido la clave de este mundial para Francia. ¡Qué tridente! #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 33,
+    "usuario": {
+      "nick": "var_hater",
+      "seguidores": 6700
+    },
+    "texto": "El VAR le regaló la final a Francia. Así de claro. #VAR #Robo",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 34,
+    "usuario": {
+      "nick": "var_supporter",
+      "seguidores": 5400
+    },
+    "texto": "Fue mano clara, el VAR hizo justicia. Sin la tecnología, el árbitro no lo habría visto. Bien por el VAR. #VAR",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 35,
+    "usuario": {
+      "nick": "just_a_fan",
+      "seguidores": 95
+    },
+    "texto": "RT @var_hater: El VAR le regaló la final a Francia. Así de claro. #VAR #Robo",
+    "menciones": [
+      "var_hater"
+    ],
+    "RT": true,
+    "origen": 33
+  },
+  {
+    "_id": 36,
+    "usuario": {
+      "nick": "zagreb_today",
+      "seguidores": 45000
+    },
+    "texto": "A pesar de la derrota, miles de personas esperan en Zagreb para recibir a sus héroes. ¡El recibimiento será histórico! #Zagreb #Ponosni",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 37,
+    "usuario": {
+      "nick": "lloris_captain",
+      "seguidores": 19000
+    },
+    "texto": "El error en el gol de Mandžukić no mancha el torneazo de nuestro capitán Lloris. ¡Grande Hugo! #Lloris",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 38,
+    "usuario": {
+      "nick": "fifa_official_parody",
+      "seguidores": 350000
+    },
+    "texto": "Gracias a todos por un Mundial increíble. Nos vemos en Qatar 2022. #ThankYouRussia",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 39,
+    "usuario": {
+      "nick": "lucas_hernandez_fan",
+      "seguidores": 3200
+    },
+    "texto": "Qué partidazo de Lucas Hernández, un muro en defensa. #LucasHernandez",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 40,
+    "usuario": {
+      "nick": "ivan_the_great",
+      "seguidores": 8800
+    },
+    "texto": "Perišić pasó de héroe a villano en 10 minutos. Golazo y luego el penal. El fútbol es así de cruel. #Perisic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 41,
+    "usuario": {
+      "nick": "french_rookie",
+      "seguidores": 345
+    },
+    "texto": "RT @lesbleus_champ: ¡¡¡FINAAAAAL!!! ¡FRANCIA ES CAMPEONA DEL MUNDO! ¡LA SEGUNDA ESTRELLA ES NUESTRA! ⭐️⭐️ #ChampionsDuMonde #FiersdetreBleus",
+    "menciones": [
+      "lesbleus_champ"
+    ],
+    "RT": true,
+    "origen": 14
+  },
+  {
+    "_id": 42,
+    "usuario": {
+      "nick": "worldcup_stats",
+      "seguidores": 180000
+    },
+    "texto": "DATO: Esta ha sido la final con más goles en 90 minutos desde 1958 (Brasil 5-2 Suecia). ¡Partidazo! #Stats #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 43,
+    "usuario": {
+      "nick": "el_filosofo_del_gol",
+      "seguidores": 55000
+    },
+    "texto": "Francia no enamoró con su juego, pero su efectividad fue de otro planeta. El fútbol también es saber ganar. #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 44,
+    "usuario": {
+      "nick": "croatian_tears",
+      "seguidores": 1200
+    },
+    "texto": "Llorando de orgullo, no de tristeza. 🇭🇷❤️ #Vatreni",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 45,
+    "usuario": {
+      "nick": "champagne_time",
+      "seguidores": 890
+    },
+    "texto": "¡A descorchar el champán! ¡Vive la France! 🇫🇷🍾 #Champions",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 46,
+    "usuario": {
+      "nick": "sports_betting_king",
+      "seguidores": 67000
+    },
+    "texto": "Aposté al 4-2. ¡Gracias Francia, gracias Croacia por este día de paga! 🤑 #Betting #Winner",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 47,
+    "usuario": {
+      "nick": "casual_croat_fan",
+      "seguidores": 210
+    },
+    "texto": "RT @croatian_pride: 4 millones de habitantes y llegan a una final del mundo. Lo de Croacia es para estudiarlo. ¡Ejemplo de lucha! #Hrvatska",
+    "menciones": [
+      "croatian_pride"
+    ],
+    "RT": true,
+    "origen": 26
+  },
+  {
+    "_id": 48,
+    "usuario": {
+      "nick": "the_beautiful_game",
+      "seguidores": 43000
+    },
+    "texto": "Una final que lo tuvo todo: goles, polémica, drama y un campeón merecido. ¡Esto es fútbol! #TheBeautifulGame",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 49,
+    "usuario": {
+      "nick": "pavard_fan",
+      "seguidores": 4100
+    },
+    "texto": "Aunque no marcó hoy, el gol de Pavard contra Argentina sigue siendo el mejor del torneo para mí. #Pavard",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 50,
+    "usuario": {
+      "nick": "history_repeats",
+      "seguidores": 15600
+    },
+    "texto": "20 años después, Francia lo vuelve a hacer. De Zidane a Mbappé. #1998vs2018",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 51,
+    "usuario": {
+      "nick": "football_moments",
+      "seguidores": 92000
+    },
+    "texto": "La imagen de la presidenta de Croacia, Kolinda Grabar-Kitarović, abrazando a cada jugador bajo la lluvia, es un ejemplo de liderazgo y empatía.",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 52,
+    "usuario": {
+      "nick": "pierre_dupont",
+      "seguidores": 750
+    },
+    "texto": "On est les champions ! On est les champions ! 🇫🇷",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 53,
+    "usuario": {
+      "nick": "mateo_kovac",
+      "seguidores": 890
+    },
+    "texto": "RT @modric_magic: Modrić está en todos lados, es el corazón de este equipo. Gane o pierda, Balón de Oro para él. #Modric #GoldenBall",
+    "menciones": [
+      "modric_magic"
+    ],
+    "RT": true,
+    "origen": 7
+  },
+  {
+    "_id": 54,
+    "usuario": {
+      "nick": "umtiti_power",
+      "seguidores": 11500
+    },
+    "texto": "Big Sam Umtiti, campeón del mundo. ¡Felicidades! #Umtiti",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 55,
+    "usuario": {
+      "nick": "referee_watch",
+      "seguidores": 135000
+    },
+    "texto": "Néstor Pitana ha tenido una final complicada. El VAR fue protagonista, para bien o para mal. #Referee #Pitana",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 56,
+    "usuario": {
+      "nick": "giroud_champ",
+      "seguidores": 9900
+    },
+    "texto": "Olivier Giroud, un '9' campeón del mundo sin tirar a puerta en todo el torneo. El trabajo sucio también gana títulos. #Giroud",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 57,
+    "usuario": {
+      "nick": "sofia_cro",
+      "seguidores": 1500
+    },
+    "texto": "Pase lo que pase, este equipo nos ha dado el mejor mes de nuestras vidas. Hvala, Vatreni! #CRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 58,
+    "usuario": {
+      "nick": "next_gen_star",
+      "seguidores": 28000
+    },
+    "texto": "RT @best_young_player: Kylian Mbappé, con solo 19 años, es elegido el Mejor Jugador Joven del Mundial. Nace una leyenda. #Mbappe",
+    "menciones": [
+      "best_young_player"
+    ],
+    "RT": true,
+    "origen": 18
+  },
+  {
+    "_id": 59,
+    "usuario": {
+      "nick": "vida_defender",
+      "seguidores": 6500
+    },
+    "texto": "Domagoj Vida, un guerrero en la defensa croata durante todo el torneo. #Vida",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 60,
+    "usuario": {
+      "nick": "neutral_observer",
+      "seguidores": 2300
+    },
+    "texto": "Ha ganado el equipo más efectivo, no el que mejor ha jugado. Felicidades a Francia. Gran torneo de Croacia. #WorldCupFinal",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 61,
+    "usuario": {
+      "nick": "marseille_fan",
+      "seguidores": 12400
+    },
+    "texto": "La France sur le toit du monde ! ⭐️⭐️",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 62,
+    "usuario": {
+      "nick": "subasic_keeper",
+      "seguidores": 7300
+    },
+    "texto": "Subašić, el héroe de los penales, no pudo hacer nada contra los misiles franceses. Gran mundial, portero. #Subasic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 63,
+    "usuario": {
+      "nick": "news_reporter",
+      "seguidores": 450000
+    },
+    "texto": "ÚLTIMA HORA: Invasión de campo durante la final del mundial. El grupo Pussy Riot se atribuye la responsabilidad.",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 64,
+    "usuario": {
+      "nick": "antoine_fr",
+      "seguidores": 850
+    },
+    "texto": "RT @lesbleus_champ: ¡¡¡FINAAAAAL!!! ¡FRANCIA ES CAMPEONA DEL MUNDO! ¡LA SEGUNDA ESTRELLA ES NUESTRA! ⭐️⭐️ #ChampionsDuMonde #FiersdetreBleus",
+    "menciones": [
+      "lesbleus_champ"
+    ],
+    "RT": true,
+    "origen": 14
+  },
+  {
+    "_id": 65,
+    "usuario": {
+      "nick": "generation_98",
+      "seguidores": 19980
+    },
+    "texto": "La generación del 98 le pasa la antorcha a la del 2018. ¡Qué orgullo! #FRACRO",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 66,
+    "usuario": {
+      "nick": "davor_suker_fan",
+      "seguidores": 5200
+    },
+    "texto": "No pudimos repetir la hazaña de Šuker en el 98, pero llegamos más lejos. ¡Bravo! #Croatia",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 67,
+    "usuario": {
+      "nick": "el_mister",
+      "seguidores": 82000
+    },
+    "texto": "RT @el_profe_tactico: Didier Deschamps ha planteado un partido muy pragmático. Croacia domina la posesión pero Francia es letal al contragolpe. #FRACRO #Tactics",
+    "menciones": [
+      "el_profe_tactico"
+    ],
+    "RT": true,
+    "origen": 12
+  },
+  {
+    "_id": 68,
+    "usuario": {
+      "nick": "worldcup_addict",
+      "seguidores": 3400
+    },
+    "texto": "Se acabó el mundial. Ahora, ¿qué hago con mi vida hasta 2022? #PostWorldCupSyndrome",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 69,
+    "usuario": {
+      "nick": "zlatko_dalic_fan",
+      "seguidores": 11000
+    },
+    "texto": "El trabajo de Zlatko Dalić ha sido espectacular. Tomó al equipo en la repesca y lo llevó a la final del mundo. #Dalic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 70,
+    "usuario": {
+      "nick": "varane_champ",
+      "seguidores": 23000
+    },
+    "texto": "Raphaël Varane. Campeón de Champions y del Mundo en el mismo año. Vaya temporada. #Varane",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 71,
+    "usuario": {
+      "nick": "mario_mandzukic_fan",
+      "seguidores": 9100
+    },
+    "texto": "Mandžukić: autogol y gol en la final. Un resumen perfecto de su espíritu de lucha incansable. #Mandzukic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 72,
+    "usuario": {
+      "nick": "fan_de_pogba",
+      "seguidores": 11200
+    },
+    "texto": "RT @pogba_style: ¡GOL DE POGBOOM! ¡Qué disparo con la zurda! ¡Francia 3-1! ¡Esto huele a campeonato! #Pogba #WorldCupFinal",
+    "menciones": [
+      "pogba_style"
+    ],
+    "RT": true,
+    "origen": 8
+  },
+  {
+    "_id": 73,
+    "usuario": {
+      "nick": "lyon_fan_fr",
+      "seguidores": 18300
+    },
+    "texto": "Fekir y Umtiti, campeones del mundo. ¡Orgullo de Lyon! #TeamOL",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 74,
+    "usuario": {
+      "nick": "balkan_power",
+      "seguidores": 4800
+    },
+    "texto": "Todo los Balcanes estaban con Croacia. ¡Gracias por representarnos tan bien!",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 75,
+    "usuario": {
+      "nick": "qatar_2022_countdown",
+      "seguidores": 55000
+    },
+    "texto": "Y ahora, la cuenta atrás para Qatar 2022. ¡Será en invierno!",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 76,
+    "usuario": {
+      "nick": "matuidi_charo",
+      "seguidores": 13400
+    },
+    "texto": "El trabajo de Matuidi en el centro del campo ha sido fundamental para liberar a Pogba y Kanté. #Matuidi",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 77,
+    "usuario": {
+      "nick": "croatian_american",
+      "seguidores": 2100
+    },
+    "texto": "Watching from the US. So proud of the boys! What a historic run. #Croatia",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 78,
+    "usuario": {
+      "nick": "user_789",
+      "seguidores": 45
+    },
+    "texto": "RT @worldcup_stats: DATO: Esta ha sido la final con más goles en 90 minutos desde 1958 (Brasil 5-2 Suecia). ¡Partidazo! #Stats #WorldCupFinal",
+    "menciones": [
+      "worldcup_stats"
+    ],
+    "RT": true,
+    "origen": 42
+  },
+  {
+    "_id": 79,
+    "usuario": {
+      "nick": "the_underdog_story",
+      "seguidores": 9800
+    },
+    "texto": "Croacia, la historia del 'underdog' que casi conquista el mundo. Inspirador. #Underdog",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 80,
+    "usuario": {
+      "nick": "paris_sg_news",
+      "seguidores": 120000
+    },
+    "texto": "¡Nuestros chicos Mbappé, Kimpembe y Areola son campeones del mundo! ¡Ici c'est Paris! #PSG",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 81,
+    "usuario": {
+      "nick": "french_expat",
+      "seguidores": 1800
+    },
+    "texto": "Celebrando desde Londres. ¡Allez Les Bleus! #LondonIsBlue",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 82,
+    "usuario": {
+      "nick": "ivan_perisic_fan",
+      "seguidores": 6800
+    },
+    "texto": "RT @ivan_the_great: Perišić pasó de héroe a villano en 10 minutos. Golazo y luego el penal. El fútbol es así de cruel. #Perisic",
+    "menciones": [
+      "ivan_the_great"
+    ],
+    "RT": true,
+    "origen": 40
+  },
+  {
+    "_id": 83,
+    "usuario": {
+      "nick": "la_defense_de_fer",
+      "seguidores": 16000
+    },
+    "texto": "La defensa de Francia ha sido un muro todo el torneo. Varane-Umtiti, una pareja para la historia. #Defense",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 84,
+    "usuario": {
+      "nick": "split_fan_zone",
+      "seguidores": 21000
+    },
+    "texto": "La Fan Zone de Split, una fiesta a pesar del resultado. ¡Gracias equipo!",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 85,
+    "usuario": {
+      "nick": "anto_griezi_fan_1",
+      "seguidores": 2400
+    },
+    "texto": "El baile de Griezmann con la copa. ¡ÍDOLO! #Fortnite",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 86,
+    "usuario": {
+      "nick": "simple_fan",
+      "seguidores": 110
+    },
+    "texto": "Gran final. Felicidades Francia.",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 87,
+    "usuario": {
+      "nick": "luka_the_goat",
+      "seguidores": 19900
+    },
+    "texto": "RT @balon_de_oro_news: OFICIAL: Luka Modrić gana el Balón de Oro del Mundial 2018. El mejor jugador del torneo. ¡Merecidísimo! #Modric #GoldenBall",
+    "menciones": [
+      "balon_de_oro_news"
+    ],
+    "RT": true,
+    "origen": 17
+  },
+  {
+    "_id": 88,
+    "usuario": {
+      "nick": "rebic_fan",
+      "seguidores": 4300
+    },
+    "texto": "La garra de Ante Rebić en cada partido ha sido contagiosa. #Rebic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 89,
+    "usuario": {
+      "nick": "thierry_henry_legend",
+      "seguidores": 25000
+    },
+    "texto": "La nueva generación francesa honra a la de 1998. ¡Felicidades! #LesBleus",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 90,
+    "usuario": {
+      "nick": "croatian_girl",
+      "seguidores": 3100
+    },
+    "texto": "RT @croatian_tears: Llorando de orgullo, no de tristeza. 🇭🇷❤️ #Vatreni",
+    "menciones": [
+      "croatian_tears"
+    ],
+    "RT": true,
+    "origen": 44
+  },
+  {
+    "_id": 91,
+    "usuario": {
+      "nick": "dembele_fan",
+      "seguidores": 14000
+    },
+    "texto": "Aunque no jugó mucho en la final, Dembélé también es campeón del mundo. ¡Felicidades Ousmane! #Dembele",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 92,
+    "usuario": {
+      "nick": "football_data",
+      "seguidores": 210000
+    },
+    "texto": "Posesión final: Croacia 61% - 39% Francia. Disparos: Croacia 15 - 8 Francia. La efectividad fue la clave. #Data #Analytics",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 93,
+    "usuario": {
+      "nick": "emmanuel_macron_parody",
+      "seguidores": 88000
+    },
+    "texto": "Celebrando con el equipo en el vestuario. ¡Qué orgullo para Francia! #President",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 94,
+    "usuario": {
+      "nick": "sofifan",
+      "seguidores": 560
+    },
+    "texto": "RT @football_moments: La imagen de la presidenta de Croacia, Kolinda Grabar-Kitarović, abrazando a cada jugador bajo la lluvia, es un ejemplo de liderazgo y empatía.",
+    "menciones": [
+      "football_moments"
+    ],
+    "RT": true,
+    "origen": 51
+  },
+  {
+    "_id": 95,
+    "usuario": {
+      "nick": "zidane_legacy",
+      "seguidores": 150000
+    },
+    "texto": "De la magia de Zizou a la velocidad de Kylian. El fútbol francés siempre tiene talento. #Zidane #Mbappe",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 96,
+    "usuario": {
+      "nick": "brozovic_epic",
+      "seguidores": 8700
+    },
+    "texto": "Brozović corrió más que nadie en este mundial. El pulmón del equipo. #Brozovic",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 97,
+    "usuario": {
+      "nick": "la_fiesta_francesa",
+      "seguidores": 4500
+    },
+    "texto": "La fiesta no va a parar en toda la noche. ¡Allez, Allez, Allez!",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 98,
+    "usuario": {
+      "nick": "var_fan_from_mars",
+      "seguidores": 999
+    },
+    "texto": "RT @var_supporter: Fue mano clara, el VAR hizo justicia. Sin la tecnología, el árbitro no lo habría visto. Bien por el VAR. #VAR",
+    "menciones": [
+      "var_supporter"
+    ],
+    "RT": true,
+    "origen": 34
+  },
+  {
+    "_id": 99,
+    "usuario": {
+      "nick": "world_cup_farewell",
+      "seguidores": 18000
+    },
+    "texto": "Un mundial inolvidable llega a su fin. Lleno de sorpresas, emociones y grandes historias. Gracias, Rusia 2018.",
+    "menciones": [],
+    "RT": false
+  },
+  {
+    "_id": 100,
+    "usuario": {
+      "nick": "final_tweet",
+      "seguidores": 100
+    },
+    "texto": "Se acabó. Felicidades a Francia y un aplauso eterno para la valiente Croacia. El fútbol es el deporte más hermoso del mundo. #GraciasFutbol",
+    "menciones": [],
+    "RT": false
+  }
+]
