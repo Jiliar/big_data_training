@@ -1,0 +1,118 @@
+.
+├── artifacts
+├── code
+│   ├── chapter1
+│   │   └── data_handling
+│   │       ├── csv.py
+│   │       ├── json.py
+│   │       ├── ods.py
+│   │       ├── tsv.py
+│   │       ├── xlsx.py
+│   │       └── xml.py
+│   ├── chapter2
+│   │   └── web_scraping
+│   │       ├── check_httpstatus_code.py
+│   │       ├── graphs_with_matplotlib.ipynb
+│   │       ├── read_online_files.py
+│   │       ├── web_scraping_in_html.py
+│   │       ├── web_scraping_online.py
+│   │       └── web_scraping_selenium.py
+│   ├── chapter3
+│   │   └── apis_data_recolection
+│   │       ├── google_maps_consumption.py
+│   │       ├── ombd_api_consumption.py
+│   │       ├── twitter_api_consumption_v1.py
+│   │       ├── twitter_api_consumption_v2.py
+│   │       └── twitter_api_data_streaming.py
+│   ├── chapter4
+│   │   └── mongodb
+│   │       ├── docker-compose.yml
+│   │       ├── mongo_data_handling.py
+│   │       └── README.md
+│   ├── chapter5
+│   │   ├── linear_algebra_numpy.py
+│   │   └── training_pandas.py
+│   ├── chapter6
+│   │   ├── pyspark-training.py
+│   │   ├── README_spark_install.md
+│   │   └── spark-docker
+│   │       └── docker-compose.yml
+│   └── chapter7
+│       ├── pyspark-mongo-db.py
+│       └── pyspark-spark-sql.py
+├── data
+│   ├── chapter1
+│   │   ├── subvenciones_actualizadas.csv
+│   │   ├── subvenciones_actualizadas.json
+│   │   ├── subvenciones_actualizadas.xls
+│   │   ├── subvenciones_actualizadas.xlsx
+│   │   ├── subvenciones_actualizadas.xml
+│   │   ├── subvenciones.csv
+│   │   ├── subvenciones.json
+│   │   ├── subvenciones.ods
+│   │   ├── subvenciones.tsv
+│   │   ├── subvenciones.xls
+│   │   ├── subvenciones.xlsx
+│   │   └── subvenciones.xml
+│   ├── chapter2
+│   │   ├── estructura_horarios.md
+│   │   ├── estructura_horarios.pdf
+│   │   ├── horario.txt
+│   │   └── mini.html
+│   ├── chapter3
+│   │   ├── final.csv
+│   │   └── final.json
+│   ├── chapter5
+│   │   ├── kmeans_pipeline.pkl
+│   │   ├── kmeans.pkl
+│   │   ├── subvenciones_totales.xls
+│   │   ├── titanic_2.xlsx
+│   │   ├── titanic_ml.csv
+│   │   ├── titanic_ml.xls
+│   │   ├── titanic_ml.xlsx
+│   │   └── titanic.csv
+│   ├── chapter6
+│   │   ├── 54534d0f-4da2-4962-ae2d-499b69663e49
+│   │   │   ├── _SUCCESS
+│   │   │   ├── part-00000
+│   │   │   └── part-00001
+│   │   ├── file.txt
+│   │   ├── file2.txt
+│   │   └── titanic.csv
+│   ├── chapter7
+│   │   ├── file.txt
+│   │   ├── file2.txt
+│   │   ├── titanic.csv
+│   │   ├── tmp
+│   │   │   ├── csv
+│   │   │   │   ├── _SUCCESS
+│   │   │   │   ├── part-00000-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00001-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00002-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00003-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00004-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00005-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00006-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00007-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   ├── part-00008-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   │   └── part-00009-c682e0d5-12e3-4bb9-92df-86fdf25dc776-c000.csv
+│   │   │   └── json
+│   │   │       ├── _SUCCESS
+│   │   │       ├── part-00000-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00001-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00002-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00003-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00004-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00005-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00006-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00007-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       ├── part-00008-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   │       └── part-00009-41688129-f352-4c2d-a956-937f011208ec-c000.json
+│   │   └── tweets.json
+│   └── chapter8
+│       └── parosexoedadprov.xls
+├── poetry.lock
+├── project_structure.txt
+└── pyproject.toml
+
+27 directories, 89 files
