@@ -19,6 +19,7 @@ tweepy = "^4.15.0"
 pymongo = "^4.13.0"
 numpy = "^2.3.0"
 xlsxwriter = "^3.2.3"
+pyspark = "^4.0.0"
 
 
 [build-system]
