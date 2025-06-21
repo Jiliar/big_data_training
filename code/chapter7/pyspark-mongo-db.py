@@ -21,7 +21,7 @@ ciudades_corregido = [
     ("Las Palmas de Gran Canaria", 378000, 28.1235, -15.4363)
 ]
 
-# Crear DataFrame con los datos corregidos
+# Crear DataFrame con los datos
 df_corregido = spark.createDataFrame(ciudades_corregido, ['Ciudad', 'Poblacion', 'Latitud', 'Longitud'])
 
 print("DataFrame con datos corregidos:")
@@ -36,7 +36,7 @@ df_corregido.show()
     .option("collection", "cities")
     .save())
 
-print("Datos corregidos escritos en MongoDB.")
+print("Datos escritos en MongoDB.")
 print("----------------------------------------------------------------------")
 
 
@@ -61,4 +61,33 @@ mas_de_500k.select(mean("Poblacion")).show()
 mas_de_500k.select(stddev("Poblacion")).show()
 mas_de_500k.select(min("Poblacion")).show()
 mas_de_500k.select(max("Poblacion")).show()
+print("----------------------------------------------------------------------")
+base_dir = os.path.dirname(__file__)
+path = os.path.join(base_dir, '..', '..', 'data', 'chapter7', 'titanic.csv')
+titanic = spark.read.csv(path, header=True, inferSchema=True)
 
+
+# Escribir en MongoDB, SOBREESCRIBIENDO los datos anteriores para limpiar
+(titanic.write
+    .format("mongodb")
+    .mode("overwrite")  # Usamos overwrite para empezar de cero con datos buenos
+    .option("connection.uri", "mongodb://admin:secret123@localhost:27017/?authSource=admin")
+    .option("database", "data")
+    .option("collection", "titanic")
+    .save())
+
+print("Datos escritos en MongoDB.")
+print("----------------------------------------------------------------------")
+
+
+def scale(n, minv, maxv):
+    return (n - minv) / (maxv - minv)
+
+# Calculate min_age and max_age from the titanic DataFrame
+age_stats_row = titanic.selectExpr("min(Age) as min_age", "max(Age) as max_age").collect()[0]
+min_age = age_stats_row["min_age"]
+max_age = age_stats_row["max_age"]
+
+from pyspark.sql.types import DoubleType
+spark.udf.register('scale_Age', lambda x: scale(x, min_age, max_age), DoubleType())
+titanic.selectExpr('Age', 'scale_Age(Age) AS Scaled_Age').show(3)

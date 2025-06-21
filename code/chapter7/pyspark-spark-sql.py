@@ -143,3 +143,15 @@ spark.sql("""
     FROM users u
     JOIN ages a ON u.id = a.id
 """).show()
+print("----------------------------------------------------------------------")
+def sex_to_num(s):
+    ret = None
+    if s == 'female':
+        ret = 0
+    elif s == 'male':
+        ret = 1
+    return ret
+
+from pyspark.sql.types import IntegerType
+spark.udf.register('sex_to_num', sex_to_num, IntegerType())
+titanic.selectExpr('Name', 'Sex', 'sex_to_num(Sex) AS Sex_num').show(5)
